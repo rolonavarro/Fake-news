@@ -1,0 +1,1 @@
+web: gunicorn 06_Detector.app:app
